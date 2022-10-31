@@ -28,7 +28,7 @@
 [Кондуит ИДМ-22](https://docs.google.com/spreadsheets/d/1ypxgDUpNsaAK5PH90dTfGKdtDnWaeEDWfupEbDokN6A/edit?usp=sharing)
 
 ## ✅ Landing Page: 
-[Тут будет ссылка на лендинг](https://github.com/)
+[Посмотреть](https://kamneva.github.io/StankinFood/)
 
 ## ✅ Дополнительные материалы по проекту:
 * [Техническое задание на разработку программного программного продукта](https://github.com/)
